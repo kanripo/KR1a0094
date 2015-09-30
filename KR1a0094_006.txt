@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 啟蒙意見
-#+DATE: 2015-09-23 09:35:06
-#+PROPERTY: JUAN 6
+#+DATE: 2015-08-24 21:57:29.297241
+#+PROPERTY: ID KR1a0094
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 跋啟蒙意見後[蘓祐]
 <pb:KR1a0094_WYG_006-1a>¶
 䟦啓蒙意見後¶
 盈天地間唯氣而理寓焉乃備諸易矣是故洩精呈秘¶
@@ -22,4 +24,3 @@
 季札聘魯始興易象之嘆非先生之志乎嘉靖十三年¶
 <pb:KR1a0094_WYG_006-2a>¶
 嵗次甲午冬十月甲辰日濮陽蘓祐謹䟦¶
-

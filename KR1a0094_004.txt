@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 啟蒙意見
-#+DATE: 2015-09-23 09:35:06
-#+PROPERTY: JUAN 4
+#+DATE: 2015-08-24 21:57:29.265706
+#+PROPERTY: ID KR1a0094
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四
 <pb:KR1a0094_WYG_004-1a>¶
 欽定四庫全書¶
 　啓蒙意見卷四¶
@@ -163,4 +165,3 @@
 　¶
 　¶
 　啓䝉意見卷四¶
-

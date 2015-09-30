@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 啟蒙意見
-#+DATE: 2015-09-23 09:35:06
-#+PROPERTY: JUAN 5
+#+DATE: 2015-08-24 21:57:29.285557
+#+PROPERTY: ID KR1a0094
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 跋啟蒙意見後[李滄]
 <pb:KR1a0094_WYG_005-1a>¶
 䟦啓蒙意見後¶
 夫易廣大悉備者也朱子易學啓䝉發前人之未發者¶
@@ -11,4 +13,3 @@
 以成名矣熟讀之餘不能不欣動而有所愛慕焉故樂¶
 為之梓且述其意以識嵗月云正徳甲戌孟春既望平¶
 陽府同知古檀李滄書¶
-
